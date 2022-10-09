@@ -4,21 +4,6 @@
 
 </div>
 
-<div class="center">
-
-# 
-
-|                           |                        |
-|:-------------------------:|:----------------------:|
-|   **Prasannjeet Singh**   |     **Farah Naz**      |
-|   *Software Developer*    |   *Doctoral Student*   |
-|      *IST Group AB*       | *Linköping University* |
-|       Växjö, Sweden       |   Linköping, Sweden    |
-| prasannjeet.singh@ist.com |    farah.naz@liu.se    |
-|  ps222vt@student.lnu.se   | fn222gm@student.lnu.se |
-
-</div>
-
 <div class="par">
 
 </div>
